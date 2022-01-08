@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/hydremoule/firstmodtest/mixin/ExampleMixin": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/hydremoule/firstmodtest/mixin/ExampleMixin": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      }
+    }
+  }
+}
